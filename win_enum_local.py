@@ -3,7 +3,7 @@
 # accesschk from SysInternals is required to be in the same root directory as this
 # script in order for it to work.
 
-# By Josh Hale "Sn0wFa11"
+# By sn0wfa11
 
 import subprocess
 import os.path
