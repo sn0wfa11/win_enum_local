@@ -1,7 +1,7 @@
 # win_enum_local
 ## Local Windows Enumeration for Privilege Escalation
 
-This is a python script that enumerates Windows computer for privilege escalation vulnerabilities. It is designed to be quick and robust to acomidate Windows versions from XP to 10. The use of WMIC was avoided for XP compatibility. 
+This is a python script that enumerates Windows computer for privilege escalation vulnerabilities. It is designed to be quick and robust to accommodate Windows versions from XP to 10. The use of WMIC was avoided for XP compatibility. 
 
 **accesschk.exe from MS SysInternals is required to be in the same root folder as this script.**
 
