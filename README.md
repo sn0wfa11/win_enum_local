@@ -9,9 +9,9 @@ You can get accesschk from this link: https://technet.microsoft.com/en-us/sysint
 
 This script has come in handy while working through the Offensive Security Penetration Testing with Kali Labs.
 
-You can compile the script to an executable using PyInstaller for easy use on any machine.
+You can compile the script to an executable using PyInstaller for easy use on any Windows machine.
 
-You can get pyinstaller from here: http://www.pyinstaller.org/
+Download pyinstaller from here: http://www.pyinstaller.org/
 
 This is an open project and I welcome input and pull requests from anyone who wishes to contribute.
 
