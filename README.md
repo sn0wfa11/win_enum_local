@@ -15,6 +15,15 @@ Download pyinstaller from here: http://www.pyinstaller.org/
 
 This is an open project and I welcome input and pull requests from anyone who wishes to contribute.
 
+## Notes
+When the script is running some of the PE checks may throw errors if the registry keys the script is looking for are not present or if the system does not support the specific check being used.
+
+An example is when the script is looking for the "AlwaysInstallElevated" registry key and it is not present you will see the following error:
+
+`ERROR: The system was unable to find the specified registry key or value.`
+
+This is nothing wrong with the script.
+
 ## Based on examples from the following resources:
 
 http://www.fuzzysecurity.com/tutorials/16.html
